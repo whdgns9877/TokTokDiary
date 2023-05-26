@@ -52,5 +52,7 @@
 
 &nbsp;
 
-🔗 [Trello](https://trello.com/b/5RWy4uH7/toktokdiary, "Trello Link")
+## 🔗 Links
+* [Development Result](https://www.notion.so/ceeca9a7311f4385b60d592f3b67d3fe?pvs=4, "Development Result")
+* [Trello](https://trello.com/b/5RWy4uH7/toktokdiary, "Trello Link")
 
